@@ -21,7 +21,7 @@ Reference implementation of the SuperGenPass algorithm in Python. Ported from
 http://supergenpass.com/. This tool generates a unique password for each
 domain, solving the problem of having to remember a million passwords.
 
-SuperGenPass (http://supergenpass.com/) is a JavaScript bookmarklet tool for
+[SuperGenPass](http://supergenpass.com/) is a JavaScript bookmarklet tool for
 generating a password based on a hash of your master password, and some domain
 name. This means you can generate a unique password for each website you use,
 solving the problem of one bad site getting your main password. But, you don't
