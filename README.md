@@ -67,17 +67,17 @@ The source tree is arranged as follows:
 OS X integration
 ================
 
-* works with firefox or safari to get the current URL if you don't specify one
-* uses the OSX keychain service to get/save your master password
+* works with Firefox or safari to get the current URL if you don't specify one
+* uses the OS X keychain service to get/save your master password
 
-keychain (osx): <https://launchpad.net/keychain.py/>
+Keychain.py (OS X): <https://launchpad.net/keychain.py/>
 
-Linux integration (gnome only, currently)
+Linux integration (GNOME only, currently)
 =========================================
 
-* works with firefox to get the current URL if you don't specify one (requires
-  the "mozRepl" firefox extension to be installed and running)
-* uses the gnomekeyring service to get/save your master password
-* requires "xsel" (debian package) to copy password to the clipboard
+* works with Firefox to get the current URL if you don't specify one (requires
+  the "mozRepl" Firefox extension to be installed and running)
+* uses the gnome-keyring service to get/save your master password
+* requires "XSel" (Debian package) to copy password to the clipboard
 
-keyring (gnome): <http://www.rittau.org/blog/20070726-01>
+gnome-keyring (GNOME): <http://www.rittau.org/blog/20070726-01>
