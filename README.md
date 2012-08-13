@@ -1,5 +1,5 @@
-SGP Password Generator
-Portions Copyright (C) Chris Zarate
+SGP Password Generator  
+Portions Copyright (C) Chris Zarate  
 Portions Copyright (C) 2008-2009 Matt Giuca, Tim Cuthbertson
 
 This program is free software: you can redistribute it and/or modify
