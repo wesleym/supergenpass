@@ -18,7 +18,7 @@ About
 =====
 
 Reference implementation of the SuperGenPass algorithm in Python. Ported from
-http://supergenpass.com/. This tool generates a unique password for each
+<http://supergenpass.com/>. This tool generates a unique password for each
 domain, solving the problem of having to remember a million passwords.
 
 [SuperGenPass](http://supergenpass.com/) is a JavaScript bookmarklet tool for
@@ -38,7 +38,7 @@ We have ported it to Python for a number of reasons:
   version -- a malicious site could snoop the master password from the
   JavaScript form. This vulnerability is not present in offline versions of
   the algorithm (though this is also true of the "mobile version" provided at
-  http://supergenpass.com/mobile/).
+  <http://supergenpass.com/mobile/>).
 
 PySGP is that implementation. It should generate the exact same passwords as
 SuperGenPass 1.3, so you can use the two tools interchangeably. We would like
@@ -70,7 +70,7 @@ OS X integration
 * works with firefox or safari to get the current URL if you don't specify one
 * uses the OSX keychain service to get/save your master password
 
-keychain (osx): https://launchpad.net/keychain.py/
+keychain (osx): <https://launchpad.net/keychain.py/>
 
 Linux integration (gnome only, currently)
 =========================================
@@ -80,4 +80,4 @@ Linux integration (gnome only, currently)
 * uses the gnomekeyring service to get/save your master password
 * requires "xsel" (debian package) to copy password to the clipboard
 
-keyring (gnome): http://www.rittau.org/blog/20070726-01
+keyring (gnome): <http://www.rittau.org/blog/20070726-01>
